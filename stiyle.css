@@ -1,0 +1,18 @@
+main {background-color: rgb(13, 143, 52);
+     scroll-margin-left: 25%;
+     margin-right: 15%;
+    }
+    header {font-size: 150%;
+        color: aqua;
+        margin-left: 20%;
+        border-color: rgb(22, 100, 7);
+        border-left: 6px;
+        border-style: dotted;
+    }
+    footer {background-color: rgb(58, 97, 19);
+        margin-left: 40%;
+        margin-right: 20%;
+        border-color: rgb(12, 136, 95);
+        border-left: 6px;
+        border-style: outset;
+    }
